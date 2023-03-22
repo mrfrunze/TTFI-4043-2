@@ -504,7 +504,7 @@ main {
   background-image: url(../img/bg-line.png), url(../img/fishki.png), linear-gradient(90deg, rgb(67, 162, 100) 0%, rgb(105, 211, 142) 51%);
   background-repeat: no-repeat;
   background-position: center bottom, center bottom -20px;
-  background-size: auto, auto;
+  background-size: 100%, auto;
 }
 @media (max-width: 1280px) {
   .hero-block {
